@@ -12,7 +12,7 @@
     },
     "description": "Feature-rich multiplayer mod",
     "dependencies": {
-        "geode.node-ids": ">=v4.7.0"
+        "geode.node-ids": "v4.7.0"
     },
     "incompatibilities": {},
     "links": {
